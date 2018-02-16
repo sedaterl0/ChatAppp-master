@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "15830974138",
+    "firebase_url": "https://chatapp-b17f7.firebaseio.com",
+    "project_id": "chatapp-b17f7",
+    "storage_bucket": "chatapp-b17f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15830974138:android:023f5dcaa6179c48",
+        "android_client_info": {
+          "package_name": "com.example.sedater.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15830974138-k72g66cf3embncpui5ekcpi7kv8hf492.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYZOuTu2RAW4QD08hWjJI3iteNsY9xkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
